@@ -1,0 +1,60 @@
+.T{
+position: absolute;
+top: 15px;
+left: 410px;
+z-index: 10;
+}
+
+.kk{
+	position: absolute;
+	top: 100px;
+	left: 420px;
+	height: 400px;
+	z-index:;
+}
+.a1{
+position: absolute;
+top: 0px;
+left: 0px;
+height: 350px;
+width: 700px;
+background:  #A9F5D0;
+z-index: 1;
+}
+.a2{
+position: absolute;
+top: 0px;
+left: 700px;
+height: 350px;
+width: 666px;
+background: #A9F5BC;
+z-index: 1;
+}
+.a3{
+position: absolute;
+top: 350px;
+left: 0px;
+height: 307px;
+width: 700px;
+background: #A9F5A9;
+z-index: 1;
+}
+.a4{
+position: absolute;
+top: 350px;
+left: 700px;
+height: 307px;
+width: 666px;
+background: #BCF5A9;
+z-index: 1;
+}
+
+.esce{
+	position: absolute;
+    top: 350px;
+    left: 700px;
+    height: 307px;
+    width: 666px;
+	background-image: url(../fotos/escena.JPG);
+	z-index: 88;
+}
